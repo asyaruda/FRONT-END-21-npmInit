@@ -1,0 +1,11 @@
+{
+  "name": "front-end-21-npminit",
+  "version": "1.0.0",
+  "description": "simple calculator",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
